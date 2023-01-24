@@ -1,1 +1,1 @@
-https://github.com/KamilGromadzki369/goit-markup-hw-01.git
+https://kamilgromadzki369.github.io/goit-markup-hw-01/git
